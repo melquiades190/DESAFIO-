@@ -1,0 +1,15 @@
+C:\Users\arian\OneDrive\Área de Trabalho\doc kid\curso c#\Poo\bin\Debug\net6.0\PooC#.exe
+C:\Users\arian\OneDrive\Área de Trabalho\doc kid\curso c#\Poo\bin\Debug\net6.0\PooC#.deps.json
+C:\Users\arian\OneDrive\Área de Trabalho\doc kid\curso c#\Poo\bin\Debug\net6.0\PooC#.runtimeconfig.json
+C:\Users\arian\OneDrive\Área de Trabalho\doc kid\curso c#\Poo\bin\Debug\net6.0\PooC#.dll
+C:\Users\arian\OneDrive\Área de Trabalho\doc kid\curso c#\Poo\bin\Debug\net6.0\ref\PooC#.dll
+C:\Users\arian\OneDrive\Área de Trabalho\doc kid\curso c#\Poo\bin\Debug\net6.0\PooC#.pdb
+C:\Users\arian\OneDrive\Área de Trabalho\doc kid\curso c#\Poo\obj\Debug\net6.0\PooC#.csproj.AssemblyReference.cache
+C:\Users\arian\OneDrive\Área de Trabalho\doc kid\curso c#\Poo\obj\Debug\net6.0\PooC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arian\OneDrive\Área de Trabalho\doc kid\curso c#\Poo\obj\Debug\net6.0\PooC#.AssemblyInfoInputs.cache
+C:\Users\arian\OneDrive\Área de Trabalho\doc kid\curso c#\Poo\obj\Debug\net6.0\PooC#.AssemblyInfo.cs
+C:\Users\arian\OneDrive\Área de Trabalho\doc kid\curso c#\Poo\obj\Debug\net6.0\PooC#.csproj.CoreCompileInputs.cache
+C:\Users\arian\OneDrive\Área de Trabalho\doc kid\curso c#\Poo\obj\Debug\net6.0\PooC#.dll
+C:\Users\arian\OneDrive\Área de Trabalho\doc kid\curso c#\Poo\obj\Debug\net6.0\ref\PooC#.dll
+C:\Users\arian\OneDrive\Área de Trabalho\doc kid\curso c#\Poo\obj\Debug\net6.0\PooC#.pdb
+C:\Users\arian\OneDrive\Área de Trabalho\doc kid\curso c#\Poo\obj\Debug\net6.0\PooC#.genruntimeconfig.cache
